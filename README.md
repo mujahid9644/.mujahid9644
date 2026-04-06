@@ -16,7 +16,7 @@
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 CSE Student (5th Semester)
+- 🎓 Department Of CSE (DIU) 
 - 💻 Full Stack Developer (Django + React)
 - 🤖 Learning Machine Learning & AI
 - 🌐 Building real-world SaaS products
