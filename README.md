@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://e-com-alpha-swart.vercel.app/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="170" />
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="170" height="100" />
   </a>
 </p>
 <p align="center">
@@ -65,7 +65,7 @@
 ---
 <p align="center">
   <a href="https://mujahid9644.github.io/doctor-demo/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/DoctorDmo.PNG?raw=true" width="170" />
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/DoctorDmo.PNG?raw=true" width="170" height="100"/>
   </a>
 </p>
 <p align="center">
