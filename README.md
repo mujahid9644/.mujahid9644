@@ -55,7 +55,7 @@
 ## 🧩 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/mujahid9644">
+  <a href="https://e-com-alpha-swart.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahid9644&repo=your-repo-name&theme=tokyonight" />
   </a>
 </p>
@@ -63,7 +63,13 @@
 > https://e-com-alpha-swart.vercel.app/
 
 ---
+<p align="center">
+  <a href="https://mujahid9644.github.io/doctor-demo/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahid9644&repo=your-repo-name&theme=tokyonight" />
+  </a>
+</p>
 
+> https://mujahid9644.github.io/doctor-demo/
 ## 📊 GitHub Stats
 
 <p align="center">
