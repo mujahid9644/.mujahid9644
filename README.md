@@ -54,6 +54,15 @@
 
 ## 🧩 Featured Projects
 <p align="center">
+  <a href="https://my-profile-pi-navy.vercel.app/">
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/Profile.png?raw=true" width="170" height="100" />
+  </a>
+</p>
+<p align="center">
+ > https://my-profile-pi-navy.vercel.app/
+</p>
+
+<p align="center">
   <a href="https://dent2-rho.vercel.app/">
     <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/dent2.png?raw=true" width="170" height="100" />
   </a>
